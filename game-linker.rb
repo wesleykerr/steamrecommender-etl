@@ -13,7 +13,7 @@ class GameLinker
     @log = Logger.new(STDOUT)
     @log.level = Logger::DEBUG
 
-    @gb_key = "1bcdfb88180202845adab96300ff82e7ffefe0e9"
+    @gb_key = "key"
     @gb_api = "http://www.giantbomb.com/api"
 
     @steam = "http://store.steampowered.com/"
